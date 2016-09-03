@@ -1,0 +1,1 @@
+require('hexo')({command: 'server'});  
